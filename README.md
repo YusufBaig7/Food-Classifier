@@ -1,3 +1,3 @@
 # Food-Classifier
-Just trying to classify exotic dishes!
-A 101 of them to be precise ;)
+Implementing a food classifier on 101 dishes (hopefully).
+Implementing the same with the help of VGG16.
